@@ -1,0 +1,28 @@
+{
+  "A4B": null,
+  "ACM": "aws_acm_certificate",
+  "AWSAmplify": "aws_amplify_app",
+  "AWSAppFabric": null,
+  "AWSAppRunner": "aws_apprunner_service",
+  "AWSAppStudio": null,
+  "AWSAppSync": "aws_appsync_graphql_api",
+  "AWSApplicationMigrationSvc": null,
+  "AWSB2Bi": null,
+  "AWSBCMPricingCalculator": null,
+  "AWSBackup": "aws_backup_vault",
+  "AWSBillingConductor": null,
+  "AWSCertificateManager": "aws_acm_certificate",
+  "AWSCleanRooms": null,
+  "AWSCloudFormation": "aws_cloudformation_stack",
+  "AWSCloudMap": "aws_service_discovery_service",
+  "AWSCloudTrail": "aws_cloudtrail",
+  "AWSCloudWAN": null,
+  "AWSCodeArtifact": "aws_codeartifact_repository",
+  "AWSCodeDeploy": "aws_codedeploy_deployment_group",
+  "AWSCodePipeline": "aws_codepipeline",
+  "AWSComputeOptimizer": null,
+  "AWSConfig": "aws_config_configuration_recorder",
+  "AmazonEC2": "aws_instance",
+  "AmazonRDS": "aws_db_instance"
+}
+
